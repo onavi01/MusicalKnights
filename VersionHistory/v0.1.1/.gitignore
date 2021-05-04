@@ -1,0 +1,12 @@
+#Ignore all files and folders.
+/*
+
+#Except the selected files & folders
+!Assets/
+!ProjectSettings/
+!VersionHistory/
+!MusicalKnights*/
+!.gitignore
+!.gitattributes
+!README.md
+!*.todo
