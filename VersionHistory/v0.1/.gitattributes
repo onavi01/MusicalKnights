@@ -1,3 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-*.aspx linguist-detectable=false
+* linguist-vendored
+*.cs linguist-vendored=false
