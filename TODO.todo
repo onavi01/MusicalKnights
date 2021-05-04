@@ -1,9 +1,10 @@
-Known Bugs & Improvements:
-    ☐ Bug - command system allows 2 player inputs on the same beat @high
-    ☐ Improve - calculate distances between markers within LaneInterface so Friendly/EnemySoldier don't have to
-    ☐ Improve - refactor code within FriendlySpawn.Spawn() & FriendlySoldier.Update();
-    ✔ Improve - show simple text feedback in UI when Command is performed @done(21-05-03 23:08)
-    ☐ Improve - show player input accuracy in UI
-    ☐ Improve - globalize turns as simple booleans
-    ☐ Improve - globalize measurePos + other universal beat timing variables/info
-    ☐ Improve - use function Transform.SetParent() instead of setting parents manually
+0.1 Patches:
+    Known Bugs & Improvements:
+        ☐ Bug - command system allows 2 player inputs on the same beat @high
+        ☐ Improve - calculate distances between markers within LaneInterface so Friendly/EnemySoldier don't have to
+        ☐ Improve - refactor code within FriendlySpawn.Spawn() & FriendlySoldier.Update();
+        ✔ Improve - show simple text feedback in UI when Command is performed @done(21-05-03 23:08)
+        ☐ Improve - show player input accuracy in UI
+        ☐ Improve - globalize turns as simple booleans
+        ☐ Improve - globalize measurePos + other universal beat timing variables/info
+        ☐ Improve - use function Transform.SetParent() instead of setting parents manually
