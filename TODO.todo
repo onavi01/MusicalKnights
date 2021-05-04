@@ -1,4 +1,4 @@
-0.1 Patches:
+Musical Knights 0.1+:
     Known Bugs & Improvements:
         ☐ Bug - command system allows 2 player inputs on the same beat @high
         ☐ Improve - calculate distances between markers within LaneInterface so Friendly/EnemySoldier don't have to
