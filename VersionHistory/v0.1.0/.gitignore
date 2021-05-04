@@ -7,4 +7,5 @@
 !VersionHistory/
 !.gitignore
 !.gitattributes
+!README.md
 !*.todo
