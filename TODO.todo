@@ -1,31 +1,3 @@
-Musical Knights Pre-Alpha 0.1.0:
-    Basic mechanics of the musically-synced, lane-based defense system.
-    Conductor/Audio Mechanics:
-        ✔ Internal metronome @done(21-04-28 20:28)
-        ✔ Input calibration support @done(21-04-28 20:28)
-        ✔ 2 music tracks (1 main track, 1 warning) @done(21-04-28 20:29) note: warning track not currently used in-game
-
-    Game Mechanics:
-        Lanes:
-            ✔ Top, Mid, & Bottom Lanes @done(21-04-28 20:43)
-            ✔ Divide lanes into "markers" @done(21-05-01 21:39)
-        Troops:
-            Basic Soldier:
-                ✔ Basic Marching AI @done(21-05-03 21:35)
-                ✔ Deploying @done(21-05-01 23:04)
-                ✔ Command response @done(21-05-01 23:18)
-            Soldier Implementation:
-                ✔ Player @inprogress @done(21-05-03 21:35)
-                ✔ Adversary @done(21-05-03 23:08)
-        Command System:
-            ✔ Adversary & Player turns @done(21-04-28 20:28)
-            ✔ Main commands (i.e. March, Steady, Charge, etc.) @done(21-04-29 23:45)
-            ✔ Perfect/Good/Poor player input detection @done(21-04-28 20:36)
-            ✔ Adversary commands @done(21-04-30 00:18)
-
-    UI:
-        ✔ Flashing border @done(21-04-28 20:41)
-
 Known Bugs & Improvements:
     ☐ Bug - command system allows 2 player inputs on the same beat @high
     ☐ Improve - calculate distances between markers within LaneInterface so Friendly/EnemySoldier don't have to
