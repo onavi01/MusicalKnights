@@ -1,0 +1,10 @@
+#Ignore all files and folders.
+/*
+
+#Except the selected files & folders
+!Assets/
+!ProjectSettings/
+!VersionHistory/
+!.gitignore
+!.gitattributes
+!*.todo
