@@ -6,7 +6,7 @@ Musical Knights Minor Update v0.2.0:
     Game Mechanics:
         Lanes:
             ☐ Implement marker occupancy
-            ☐ Lane & commander health
+            ☐ Lane & commander health @donext
         Troops:
             ☐ Simple attacking mechanics
         Commanders:
