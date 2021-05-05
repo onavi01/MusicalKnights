@@ -1,4 +1,4 @@
-### Pre-Alpha v0.1.0
+### v0.1.0 Minor Update Notes
 * **Conductor System/Audio:**
   * Added internal metronome
   * Added calibration support (currently inaccessible)
