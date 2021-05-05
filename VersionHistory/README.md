@@ -7,13 +7,13 @@
 
 ### v0.1.15 Patch Notes 
 * Improved code across several components
-    * refactored how friendly & enemy troops were spawned
-    * refactored how friendly & enemy troops keep track of their current lane and position while they march
-    * refactored & unionized how game elements keep track & follow the internal metronome
+    * Refactored how friendly & enemy troops were spawned
+    * Refactored how friendly & enemy troops keep track of their current lane and position while they march
+    * Refactored & unionized how game elements keep track & follow the internal metronome
 
 ### v0.1.10 Patch Notes
-* added text UI to display input accuracy
-* refactored how children GameObjects were created
+* Added text UI to display input accuracy
+* Refactored how children GameObjects were created
 
 ### v0.1.0 Minor Update Notes
 * **Conductor System/Audio:**
