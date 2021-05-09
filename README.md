@@ -1,6 +1,6 @@
 ### Download
-* Executable is found within 'MusicalKnights...' folder
-    * Requires only the contents of 'MusicalKnights...' to run
+
+Latest game executable (.exe) located within 'MusicalKnights...' folder. To run, make sure all contents of the 'MusicalKnights...' folder is downloaded and run the executable file from within.
 
 ### v0.1.20 Patch Notes 
 * Fixed a bug that allowed the player to input more than one commands in a single beat
