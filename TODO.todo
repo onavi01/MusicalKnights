@@ -22,8 +22,8 @@ Musical Knights Minor Update v0.2.0:
             ☐ Toggle show/hide debug info
     Technical:
         ✔ Consolidate Friendly & Enemy troop classes @done(21-05-09 03:39)
-        ☐ Adjust code organization through the use of namespaces
-        ☐ Replace text Gameobjects with TextMeshPro objects
 
 Known Bugs & Possible Improvements:
+    ☐ Improve - Replace text Gameobjects with TextMeshPro objects
+    ☐ Improve - Adjust code organization through the use of namespaces
     ☐ Improve - Routine code review
