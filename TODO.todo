@@ -15,15 +15,20 @@ Musical Knights Minor Update v0.2.0:
             ✔ Improve Adversary AI @done(21-05-08 22:35)
             ✔ Implement erroneous player command limit @done(21-05-12 01:46)
     UI:@inprogress
+        ✔ Toggle debug info @done(21-05-12 09:57)
+        ✔ Toggle controls @done(21-05-12 09:59)
         Pause Menu:
             ✔ Pause @done(21-05-12 02:07)
             ✔ Exit @done(21-05-12 03:04)
-            ☐ Adjust calibration
-            ☐ Toggle show/hide debug info
+            ✔ Adjust input calibration @done(21-05-12 08:58)
     Technical:
         ✔ Consolidate Friendly & Enemy troop classes @done(21-05-09 03:39)
+        ✔ Map inputs to proper keybinds @done(21-05-12 09:58)
+        ✔ Refine Unity inspectors for classes @done(21-05-12 09:58)
+        ✔ Code cleanup across all classes @done(21-05-12 10:01)
 
 Known Bugs & Possible Improvements:
-    ☐ Improve - Replace text Gameobjects with TextMeshPro objects
-    ☐ Improve - Adjust code organization through the use of namespaces
+    ☐ Bug - Players' command chains are accepted if the mistake limit is reached after the 4th beat
+    ☐ Improve - Avoid hiding important controls when help is toggled off
+    ☐ Improve - Move player commander 
     ☐ Improve - Routine code review
