@@ -1,6 +1,26 @@
-Musical Knights v0.2.2:
-    ✔ Bug - Players' command chains are accepted if the mistake limit is reached after the 4th beat @done(21-05-15 23:54)
-    ✔ Improve - Make number of beats per measure editable @done(21-05-16 00:07)
-    ✔ Improve - Adjust UI so only game controls aren't hidden @done(21-05-16 00:01)
-    ✔ Improve - Create public Conductor function to keep track of internal metronome @done(21-05-14 16:02)
-    ✔ Improve - Routine code review @done(21-05-15 23:52)
+Musical Knights v0.3.0a - Basic Troop Variety:
+    Conductor System/Audio:
+        ☐ Update soundtrack for better looping
+        ☐ Implement system to avoid playing multiple instances of the troop attacking SFX at the same time
+    Game Mechanics:
+        Defender Troop:
+            ☐ Deploying
+            ☐ Attacking
+            ☐ Movement
+        Archer Troop:
+            ☐ Deploying
+            ☐ Attacking
+                ☐ Projectile arcs
+            ☐ Movement
+        Lanes:
+            ☐ Queue system
+            ☐ Update spawned troop behaviour to march into the spawner marker from beyond the lane
+            ☐ Allow lane markers to be occupied by 1 'Mobile' troop & 1 'Turret' troop max
+        ☐ Make troops attack a predefined # of times by default
+    UI:
+        ☐ Add troop selection control scheme & interface
+        Pause Menu:
+            ☐ Add volume slider
+    Technical:
+        ☐ Rename 'Interface' scripts & components as 'Controllers'
+        ☐ Implement Lists to handle lane markers & troops w/in lanes
