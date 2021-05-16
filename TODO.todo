@@ -1,34 +1,6 @@
-Musical Knights Minor Update v0.2.0:
-    Conductor System/Audio:
-        ✔ Count-in @done(21-05-09 07:50)
-        ✔ Update song track @done(21-05-09 07:50)
-        ✔ Player turn cue @done(21-05-09 08:38)
-        ✔ Troop attacking sfx @done(21-05-09 08:39)
-    Game Mechanics:
-        Lanes:
-            ✔ Lane & commander health @done(21-05-05 19:27)
-            ✔ Implement marker occupancy @done(21-05-05 20:14)
-        Troops:
-            ✔ Troops respect marker occupancy @done(21-05-06 00:41)
-            ✔ Simple attacking mechanics @done(21-05-07 00:43)
-        Commanders:
-            ✔ Improve Adversary AI @done(21-05-08 22:35)
-            ✔ Implement erroneous player command limit @done(21-05-12 01:46)
-    UI:@inprogress
-        ✔ Toggle debug info @done(21-05-12 09:57)
-        ✔ Toggle controls @done(21-05-12 09:59)
-        Pause Menu:
-            ✔ Pause @done(21-05-12 02:07)
-            ✔ Exit @done(21-05-12 03:04)
-            ✔ Adjust input calibration @done(21-05-12 08:58)
-    Technical:
-        ✔ Consolidate Friendly & Enemy troop classes @done(21-05-09 03:39)
-        ✔ Map inputs to proper keybinds @done(21-05-12 09:58)
-        ✔ Refine Unity inspectors for classes @done(21-05-12 09:58)
-        ✔ Code cleanup across all classes @done(21-05-12 10:01)
-
-Known Bugs & Possible Improvements:
-    ☐ Bug - Players' command chains are accepted if the mistake limit is reached after the 4th beat
-    ☐ Improve - Avoid hiding important controls when help is toggled off
-    ☐ Improve - Move player commander 
-    ☐ Improve - Routine code review
+Musical Knights v0.2.2:
+    ✔ Bug - Players' command chains are accepted if the mistake limit is reached after the 4th beat @done(21-05-15 23:54)
+    ✔ Improve - Make number of beats per measure editable @done(21-05-16 00:07)
+    ✔ Improve - Adjust UI so only game controls aren't hidden @done(21-05-16 00:01)
+    ✔ Improve - Create public Conductor function to keep track of internal metronome @done(21-05-14 16:02)
+    ✔ Improve - Routine code review @done(21-05-15 23:52)
