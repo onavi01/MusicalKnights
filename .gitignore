@@ -2,13 +2,13 @@
 /*
 
 #Except the selected files & folders
-#!Assets/
-#!ProjectSettings/
-#!UserSettings/
-#!VersionHistory/
-#!MusicalKnights*/
+!Assets/
+!ProjectSettings/
+!UserSettings/
+!VersionHistory/
+!MusicalKnights*/
 !Prereleases/
 !.gitignore
 !.gitattributes
-#!README.md
+!README.md
 !*.todo
